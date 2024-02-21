@@ -3,6 +3,9 @@ resource "digitalocean_domain" "domain" {
   ip_address = var.ip_address
 }
 
+#####################################################################################
+##:-This resource is from digitalocean_record.
+#####################################################################################
 
 resource "digitalocean_record" "www" {
   for_each = var.enabled ? var.records : {}
