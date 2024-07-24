@@ -53,14 +53,14 @@ Please ensure you specify the correct 'source' path for the module.
 - This module currently does not provide any outputs.
 
 # Examples:Basic
-For detailed examples on how to use this module, please refer to the '[example](https://github.com/opsstation/terraform-digitalocean-domain/tree/master/_example)' directory within this repository.
+For detailed examples on how to use this module, please refer to the '[example](https://github.com/yadavprakash/terraform-digitalocean-domain/tree/master/_example)' directory within this repository.
 
 ## Authors
 Your Name
 Replace '[License Name]' and '[Your Name]' with the appropriate license and your information. Feel free to expand this README with additional details or usage instructions as needed for your specific use case.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/opsstation/terraform-digitalocean-domain/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/yadavprakash/terraform-digitalocean-domain/blob/master/LICENSE) file for details.
 
 
 
